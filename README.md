@@ -16,8 +16,8 @@ This project is a Dart console application that solves common data structure cha
 1. Install Dart SDK  
    Download and install Dart from: [https://dart.dev/get-dart](https://dart.dev/get-dart)
 
-2. Clone the repository
-dart run main.dart
+2. Run App
+   dart run main.dart
 
 File Structure
 
